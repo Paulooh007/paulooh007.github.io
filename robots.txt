@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://paul-okewunmi.github.io/sitemap.xml
